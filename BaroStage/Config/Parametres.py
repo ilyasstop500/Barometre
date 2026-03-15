@@ -1,10 +1,10 @@
 
-CSVs_directory = r"C:\ProgramData\MySQL\MySQL Server 8.0\Data\FF16"
-username = 'root'
-password =  '1234'
+CSVs_directory = ""
+username = 'admin'
+password =  'admin'
 ip_address =  '127.0.0.1'
-schema_name = 'akm'
-dateref = "202403"
+schema_name = ''
+dateref = ""
 next_fact_id = 0
 next_sql_id = 0
 
